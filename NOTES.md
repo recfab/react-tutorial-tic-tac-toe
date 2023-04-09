@@ -16,4 +16,11 @@ import React from 'react'
 
 ## Tips
 
-React components must return have a single top-level JSX element. You can use "fragments", i.e. `<>` and `</>` for this purpose
+- React components must return have a single top-level JSX element.
+  - You can use "fragments", i.e. `<>` and `</>` for this purpose
+- `useState`
+  - params
+    - initialValue
+  - returns
+    - current value
+    - function to change the value
