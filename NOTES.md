@@ -24,3 +24,4 @@ import React from 'react'
   - returns
     - current value
     - function to change the value
+- immutability enables undo/redo and time travel
