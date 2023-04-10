@@ -25,3 +25,4 @@ import React from 'react'
     - current value
     - function to change the value
 - immutability enables undo/redo and time travel
+- you must set a `key` on list items, otherwise state updating gets screwy
